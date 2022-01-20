@@ -16,3 +16,4 @@ Professor, D. (Director). (2016). Mass Spectrometry [Motion Picture]. Retrieved 
 
 TOFWERK AG. (19. Januar 2022). Advantages of Time-of-Flight Mass Spectrometry Over Quadrupole MS. Von https://www.tofwerk.com/advantages-time-of-flight-mass-spectrometry-over-quadrupole-ms/.
 
+Franziska Krumbiegel (18. Juli 2016). Nachweis von toxikologisch relevanten Wirkstoffen in Nägeln und Haaren mittels Flüssigkeitschromatographie-Massenspektrometrie - Kopplung (LC - MS/MS). Von https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiZ6OyY6r_1AhXHDGMBHUGsCTQQFnoECAkQAQ&url=https%3A%2F%2Frefubium.fu-berlin.de%2Fbitstream%2Fhandle%2Ffub188%2F1032%2FKrumbiegel_Franziska_diss.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0A98KnIFwoqyPtLH9jGd_Z. 
