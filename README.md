@@ -20,3 +20,5 @@ Franziska Krumbiegel (18. Juli 2016). Nachweis von toxikologisch relevanten Wirk
 
 
 Machnik, M., Schänzer, W.: Nachweis von Dopingsubstanzen im Humanhaar. F.I.T., Wissenschaftsmagazin der Deutschen Sporthochschule Köln, 1 (2001) 12 15. Von https://www.dshs-koeln.de/institut-fuer-biochemie/analyse-methoden/haaranalytik-nachweis/.
+
+Rüdiger Meyer: Drogennachweis: Wie Haare körperfremde Substanzen speichern. Von https://www.aerzteblatt.de/archiv/24950/Drogennachweis-Wie-Haare-koerperfremde-Substanzen-speichern.
